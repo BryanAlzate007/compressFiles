@@ -1,0 +1,9 @@
+body{
+    background-color:dodgerblue ;
+}
+
+header{
+    border: 1px solid azure;
+    display: grid;
+    justify-items:center ;
+}
